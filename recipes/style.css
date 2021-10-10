@@ -1,0 +1,60 @@
+    *
+     {
+         color:rgb(168, 102, 47);
+         background-color: rgb(0, 0, 0) ;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 25px;
+        
+     }
+
+     .main-title-buffalo-wings {
+         color: rgb(146, 58, 26);
+         background-color: rgba(0, 0, 0, 0.274);
+         font-size: 40px;
+         height: 1.2em;
+         width: 14.1em;
+         text-align: center;
+         border-style: outset;
+         border-color: rgb(51, 46, 41);
+         border-width: 5px;
+
+     }
+
+     .heading{
+         color: rgb(255, 230, 0);
+         font-size: 27px;
+     }
+
+     .subheading{
+            border-color: rgb(51, 46, 41);
+         font-size: 25px;
+     }
+
+     .blue{
+         color: blue
+     }
+
+     img
+     {
+         height: auto;
+         width: auto;
+         
+     }
+     
+     p, .intro-description{
+         color: rgb(146, 58, 26);
+         background-color: black;
+         box-sizing: border-box;
+         border: 5px outset rgb(51,46,41);
+     }
+
+     p {
+        height: 1.6em;
+        width: 8em;
+     }
+
+     .intro-description {
+        height: auto;
+        width: 23em;
+     }
+      
