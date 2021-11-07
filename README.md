@@ -1,4 +1,3 @@
 Recipe Webpage
 
-Goal: Create a basic recipe webpage that contains a main index page with some
-links to recipes.
+Goal: Create a main index page that links to recipes on other pages.
