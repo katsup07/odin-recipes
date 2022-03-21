@@ -1,3 +1,3 @@
 Recipe Webpage
 
-Goal: Create a main index page that links to recipes on other pages.
+My first website. A home page that links to recipes.
